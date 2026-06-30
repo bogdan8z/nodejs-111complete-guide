@@ -1,9 +1,4 @@
-## nodejs complete guide
-
-# link
-https://levi9.udemy.com/course/nodejs-the-complete-guide/learn/lecture/11566244#overview<br>
-https://expressjs.com/<br>
-https://expressjs.com/en/4x/api.html<br>
+## NodeJS complete guide
 
 # steps
  - first time:
@@ -14,3 +9,8 @@ https://expressjs.com/en/4x/api.html<br>
  > npm run aaaa
 - 
 > npm i --save express
+
+# links
+https://levi9.udemy.com/course/nodejs-the-complete-guide/learn/lecture/11566244#overview<br>
+https://expressjs.com/<br>
+https://expressjs.com/en/4x/api.html<br>
