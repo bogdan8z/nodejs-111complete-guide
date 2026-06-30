@@ -6,6 +6,11 @@ https://expressjs.com/<br>
 https://expressjs.com/en/4x/api.html<br>
 
 # steps
-//first time: >npm init
-// run: >npm start or >npm run aaaa
-//>npm i --save express
+ - first time:
+  >npm init
+ - run:
+ > npm start
+ - or
+ > npm run aaaa
+- 
+> npm i --save express
